@@ -55,8 +55,6 @@ public class MainFrame extends javax.swing.JFrame implements ActionListener {
         //initComponents();
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setTitle("Velsis Decrypt");
-        //this.setLocation(500, 300);
-        //this.setLayout(new FlowLayout());
         this.setResizable(false);
         
         
