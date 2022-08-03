@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+<configuration>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder> 
+            <Pattern>%d{HH:mm:ss:SSS}->%-5level- %-36.36logger{36} %-4line [%thread]: %msg%n</Pattern>
+        </encoder>
+    </appender>
+
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <prudent>false</prudent>
+        <file>${user.dir}/velsisdecrypt.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{HH:mm:ss:SSS}->%-5level- %-36.36logger{36}: %msg%n</pattern>
+        </encoder>
+    </appender> 
+
+    <root level="TRACE">
+        <appender-ref ref="FILE" />
+        <appender-ref ref="STDOUT" />
+    </root>
+    
+</configuration>
