@@ -5,7 +5,6 @@
 package com.velsis.velsisdecrypt.cryptography;
 
 import com.velsis.velsisdecrypt.MainFrame;
-import static com.velsis.velsisdecrypt.MainFrame.buttonStop;
 import static com.velsis.velsisdecrypt.cryptography.Aes256.decodeFileToBase64Binary;
 import java.io.File;
 import java.io.FileNotFoundException;
