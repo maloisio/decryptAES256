@@ -1,0 +1,171 @@
+13:24:22:507->INFO - c.v.v.cryptography.Decrypt          : Diretório de arquivos encriptados /home/msmaniotto/teste123/encript selecionado.
+13:24:22:510->INFO - c.v.v.cryptography.Decrypt          : Diretório destino /home/msmaniotto/teste123/testeSave selecionado.
+13:24:22:511->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (21ª cópia).xml selecionado para descriptografia.
+13:24:22:796->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (21ª cópia).xml descriptografado.
+13:24:22:796->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (30ª cópia).jpg selecionado para descriptografia.
+13:24:22:907->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (30ª cópia).jpg descriptografado.
+13:24:22:908->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (26ª cópia).jpg selecionado para descriptografia.
+13:24:23:009->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (26ª cópia).jpg descriptografado.
+13:24:23:009->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (14ª cópia) selecionado para descriptografia.
+13:24:23:115->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (14ª cópia) descriptografado.
+13:24:23:116->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (19ª cópia).xml selecionado para descriptografia.
+13:24:23:214->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (19ª cópia).xml descriptografado.
+13:24:23:214->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (outra cópia).flow selecionado para descriptografia.
+13:24:23:312->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (outra cópia).flow descriptografado.
+13:24:23:313->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (16ª cópia).flow selecionado para descriptografia.
+13:24:23:406->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (16ª cópia).flow descriptografado.
+13:24:23:407->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (18ª cópia).xml selecionado para descriptografia.
+13:24:23:503->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (18ª cópia).xml descriptografado.
+13:24:23:504->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (20ª cópia).flow selecionado para descriptografia.
+13:24:23:599->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (20ª cópia).flow descriptografado.
+13:24:23:599->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (20ª cópia).xml selecionado para descriptografia.
+13:24:23:694->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (20ª cópia).xml descriptografado.
+13:24:23:695->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (11ª cópia).flow selecionado para descriptografia.
+13:24:23:792->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (11ª cópia).flow descriptografado.
+13:24:23:792->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (23ª cópia).xml selecionado para descriptografia.
+13:24:23:887->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (23ª cópia).xml descriptografado.
+13:24:23:887->INFO - com.velsis.velsisdecrypt.MainFrame  : Total de 12 arquivos descriptografados!
+13:24:46:415->INFO - c.v.v.cryptography.Decrypt          : Diretório de arquivos encriptados /home/msmaniotto/teste123/encript selecionado.
+13:24:46:416->INFO - c.v.v.cryptography.Decrypt          : Diretório destino /home/msmaniotto/teste123/testeSave selecionado.
+13:24:46:417->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (21ª cópia).xml selecionado para descriptografia.
+13:24:46:518->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (21ª cópia).xml descriptografado.
+13:24:46:518->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (30ª cópia).jpg selecionado para descriptografia.
+13:24:46:619->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (30ª cópia).jpg descriptografado.
+13:24:46:619->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (26ª cópia).jpg selecionado para descriptografia.
+13:24:46:718->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (26ª cópia).jpg descriptografado.
+13:24:46:718->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (14ª cópia) selecionado para descriptografia.
+13:24:46:818->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (14ª cópia) descriptografado.
+13:24:46:818->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (19ª cópia).xml selecionado para descriptografia.
+13:24:46:918->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (19ª cópia).xml descriptografado.
+13:24:46:918->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (outra cópia).flow selecionado para descriptografia.
+13:24:47:015->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (outra cópia).flow descriptografado.
+13:24:47:016->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (16ª cópia).flow selecionado para descriptografia.
+13:24:47:112->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (16ª cópia).flow descriptografado.
+13:24:47:112->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (18ª cópia).xml selecionado para descriptografia.
+13:24:47:212->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (18ª cópia).xml descriptografado.
+13:24:47:212->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (20ª cópia).flow selecionado para descriptografia.
+13:24:47:312->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (20ª cópia).flow descriptografado.
+13:24:47:312->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (20ª cópia).xml selecionado para descriptografia.
+13:24:47:409->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (20ª cópia).xml descriptografado.
+13:24:47:409->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (11ª cópia).flow selecionado para descriptografia.
+13:24:47:509->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (11ª cópia).flow descriptografado.
+13:24:47:510->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (23ª cópia).xml selecionado para descriptografia.
+13:24:47:604->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (23ª cópia).xml descriptografado.
+13:24:47:604->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (16ª cópia).xml selecionado para descriptografia.
+13:24:47:697->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (16ª cópia).xml descriptografado.
+13:24:47:697->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (6ª cópia).flow selecionado para descriptografia.
+13:24:47:791->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (6ª cópia).flow descriptografado.
+13:24:47:792->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (11ª cópia) selecionado para descriptografia.
+13:24:47:889->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (11ª cópia) descriptografado.
+13:24:47:889->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (17ª cópia).flow selecionado para descriptografia.
+13:24:47:985->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (17ª cópia).flow descriptografado.
+13:24:47:986->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/arquivoteste (46ª cópia) selecionado para descriptografia.
+13:24:48:088->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/arquivoteste (46ª cópia) descriptografado.
+13:24:48:089->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (10ª cópia).flow selecionado para descriptografia.
+13:24:48:186->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (10ª cópia).flow descriptografado.
+13:24:48:187->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (12ª cópia).flow selecionado para descriptografia.
+13:24:48:287->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (12ª cópia).flow descriptografado.
+13:24:48:287->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (17ª cópia).xml selecionado para descriptografia.
+13:24:48:390->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (17ª cópia).xml descriptografado.
+13:24:48:390->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (cópia).flow selecionado para descriptografia.
+13:24:48:489->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (cópia).flow descriptografado.
+13:24:48:489->INFO - com.velsis.velsisdecrypt.MainFrame  : Total de 21 arquivos descriptografados!
+13:25:18:103->INFO - c.v.v.cryptography.Decrypt          : Diretório de arquivos encriptados /home/msmaniotto/teste123/encript selecionado.
+13:25:18:104->INFO - c.v.v.cryptography.Decrypt          : Diretório destino /home/msmaniotto/teste123/testeSave selecionado.
+13:25:18:104->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (21ª cópia).xml selecionado para descriptografia.
+13:25:18:206->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (21ª cópia).xml descriptografado.
+13:25:18:206->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (30ª cópia).jpg selecionado para descriptografia.
+13:25:18:304->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (30ª cópia).jpg descriptografado.
+13:25:18:304->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (26ª cópia).jpg selecionado para descriptografia.
+13:25:18:406->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (26ª cópia).jpg descriptografado.
+13:25:18:406->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (14ª cópia) selecionado para descriptografia.
+13:25:18:500->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (14ª cópia) descriptografado.
+13:25:18:501->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (19ª cópia).xml selecionado para descriptografia.
+13:25:18:595->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (19ª cópia).xml descriptografado.
+13:25:18:595->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (outra cópia).flow selecionado para descriptografia.
+13:25:18:688->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (outra cópia).flow descriptografado.
+13:25:18:689->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (16ª cópia).flow selecionado para descriptografia.
+13:25:18:784->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (16ª cópia).flow descriptografado.
+13:25:18:785->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (18ª cópia).xml selecionado para descriptografia.
+13:25:18:879->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (18ª cópia).xml descriptografado.
+13:25:18:879->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (20ª cópia).flow selecionado para descriptografia.
+13:25:18:981->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (20ª cópia).flow descriptografado.
+13:25:18:982->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (20ª cópia).xml selecionado para descriptografia.
+13:25:19:081->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (20ª cópia).xml descriptografado.
+13:25:19:082->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (11ª cópia).flow selecionado para descriptografia.
+13:25:19:176->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (11ª cópia).flow descriptografado.
+13:25:19:176->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (23ª cópia).xml selecionado para descriptografia.
+13:25:19:270->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (23ª cópia).xml descriptografado.
+13:25:19:270->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (16ª cópia).xml selecionado para descriptografia.
+13:25:19:366->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (16ª cópia).xml descriptografado.
+13:25:19:366->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (6ª cópia).flow selecionado para descriptografia.
+13:25:19:462->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (6ª cópia).flow descriptografado.
+13:25:19:462->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (11ª cópia) selecionado para descriptografia.
+13:25:19:556->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (11ª cópia) descriptografado.
+13:25:19:556->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (17ª cópia).flow selecionado para descriptografia.
+13:25:19:651->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (17ª cópia).flow descriptografado.
+13:25:19:652->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/arquivoteste (46ª cópia) selecionado para descriptografia.
+13:25:19:747->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/arquivoteste (46ª cópia) descriptografado.
+13:25:19:747->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (10ª cópia).flow selecionado para descriptografia.
+13:25:19:840->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (10ª cópia).flow descriptografado.
+13:25:19:840->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (12ª cópia).flow selecionado para descriptografia.
+13:25:19:933->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (12ª cópia).flow descriptografado.
+13:25:19:934->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (17ª cópia).xml selecionado para descriptografia.
+13:25:20:029->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (17ª cópia).xml descriptografado.
+13:25:20:029->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (cópia).flow selecionado para descriptografia.
+13:25:20:124->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (cópia).flow descriptografado.
+13:25:20:124->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (15ª cópia).flow selecionado para descriptografia.
+13:25:20:220->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (15ª cópia).flow descriptografado.
+13:25:20:220->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (3ª cópia).flow selecionado para descriptografia.
+13:25:20:315->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (3ª cópia).flow descriptografado.
+13:25:20:315->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (15ª cópia) selecionado para descriptografia.
+13:25:20:413->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (15ª cópia) descriptografado.
+13:25:20:414->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (7ª cópia).flow selecionado para descriptografia.
+13:25:20:512->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (7ª cópia).flow descriptografado.
+13:25:20:513->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (28ª cópia).jpg selecionado para descriptografia.
+13:25:20:608->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (28ª cópia).jpg descriptografado.
+13:25:20:609->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (24ª cópia).xml selecionado para descriptografia.
+13:25:20:701->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (24ª cópia).xml descriptografado.
+13:25:20:702->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (29ª cópia).jpg selecionado para descriptografia.
+13:25:20:797->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (29ª cópia).jpg descriptografado.
+13:25:20:798->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/983794168 (outra cópia).jpg selecionado para descriptografia.
+13:25:20:901->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/983794168 (outra cópia).jpg descriptografado.
+13:25:20:901->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (13ª cópia) selecionado para descriptografia.
+13:25:21:003->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (13ª cópia) descriptografado.
+13:25:21:003->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200.flow selecionado para descriptografia.
+13:25:21:102->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200.flow descriptografado.
+13:25:21:102->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (18ª cópia).flow selecionado para descriptografia.
+13:25:21:203->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (18ª cópia).flow descriptografado.
+13:25:21:203->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (13ª cópia).flow selecionado para descriptografia.
+13:25:21:301->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (13ª cópia).flow descriptografado.
+13:25:21:301->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/983794168.jpg selecionado para descriptografia.
+13:25:21:404->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/983794168.jpg descriptografado.
+13:25:21:405->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (22ª cópia).xml selecionado para descriptografia.
+13:25:21:500->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/nbactions (22ª cópia).xml descriptografado.
+13:25:21:501->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (12ª cópia) selecionado para descriptografia.
+13:25:21:599->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/image (12ª cópia) descriptografado.
+13:25:21:600->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/983794168 (cópia).jpg selecionado para descriptografia.
+13:25:21:696->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/983794168 (cópia).jpg descriptografado.
+13:25:21:697->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (8ª cópia).flow selecionado para descriptografia.
+13:25:21:794->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (8ª cópia).flow descriptografado.
+13:25:21:795->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/arquivoteste (44ª cópia) selecionado para descriptografia.
+13:25:21:904->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/arquivoteste (44ª cópia) descriptografado.
+13:25:21:905->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (14ª cópia).flow selecionado para descriptografia.
+13:25:22:004->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (14ª cópia).flow descriptografado.
+13:25:22:004->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (5ª cópia).flow selecionado para descriptografia.
+13:25:22:102->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (5ª cópia).flow descriptografado.
+13:25:22:102->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (9ª cópia).flow selecionado para descriptografia.
+13:25:22:199->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (9ª cópia).flow descriptografado.
+13:25:22:200->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/arquivoteste (45ª cópia) selecionado para descriptografia.
+13:25:22:293->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/arquivoteste (45ª cópia) descriptografado.
+13:25:22:294->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (31ª cópia).jpg selecionado para descriptografia.
+13:25:22:388->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (31ª cópia).jpg descriptografado.
+13:25:22:389->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (32ª cópia).jpg selecionado para descriptografia.
+13:25:22:485->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (32ª cópia).jpg descriptografado.
+13:25:22:485->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (27ª cópia).jpg selecionado para descriptografia.
+13:25:22:583->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/tree-736885__480 (27ª cópia).jpg descriptografado.
+13:25:22:583->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (4ª cópia).flow selecionado para descriptografia.
+13:25:22:682->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (4ª cópia).flow descriptografado.
+13:25:22:682->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (19ª cópia).flow selecionado para descriptografia.
+13:25:22:789->INFO - c.v.v.cryptography.Decrypt          : Arquivo /home/msmaniotto/teste123/encript/2022000001_HOVSLOCAL_108_1297_20220526145716200 (19ª cópia).flow descriptografado.
+13:25:22:790->INFO - com.velsis.velsisdecrypt.MainFrame  : Total de 48 arquivos descriptografados!

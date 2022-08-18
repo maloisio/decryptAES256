@@ -20,7 +20,7 @@ import java.util.List;
 public class Encrypt {
     public static void main(String[] args) throws FileNotFoundException, IOException{
         
-        File dir = new File("/home/msmaniotto/teste123/");
+        File dir = new File("/home/msmaniotto/velsisdec/");
         //String[] paths = dir.list();
         File[] listOfFiles = dir.listFiles();
         //boolean files = dir.isFile();
@@ -33,7 +33,7 @@ public class Encrypt {
         }
         
         //cria diretorio
-        String dirname = "/home/msmaniotto/teste123/encript";
+        String dirname = "/home/msmaniotto/velsisdec/encript";
         File d = new File(dirname);
         d.mkdirs();
         
@@ -44,7 +44,7 @@ public class Encrypt {
         
         for(int i = 0; i < listOfFiles.length; i++){
             if (listOfFiles[i].isFile()){
-                File f = new File("/home/msmaniotto/teste123/" + listOfFiles[i].getName()); //("/home/msmaniotto/teste123/" + listOfFiles[i].getName());
+                File f = new File("/home/msmaniotto/velsisdec/" + listOfFiles[i].getName()); //("/home/msmaniotto/teste123/" + listOfFiles[i].getName());
             
                 originalString[i] = Aes256.encodeFileToBase64Binary(f); //converte arquivo (bytes) em string
 
@@ -57,7 +57,7 @@ public class Encrypt {
                 //cria arquivo (bytes) a partir da string encriptada
                 byte[] decode = decodeFileToBase64Binary(encryptedString[i]); 
                 FileOutputStream outFile = new FileOutputStream( //cria arquivo
-                    "/home/msmaniotto/teste123/encript/"+listOfFiles[i].getName());
+                    "/home/msmaniotto/velsisdec/encript/"+listOfFiles[i].getName());
         
                 outFile.write(decode);//escreve no arquivo
             }else{
